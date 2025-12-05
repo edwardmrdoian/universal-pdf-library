@@ -1,5 +1,7 @@
 # 📚 Universal PDF Book Library
 
+![Banner](Banner.png)
+
 A clean and organized digital library containing PDF versions of books across multiple genres — Personal Development, Technology, Fiction, Business, Classics, QA Automation, Programming (.NET, Java, Kotlin), and more.
 
 This repository is designed to be a valuable resource for readers, students, developers, and anyone who loves learning.
@@ -40,13 +42,6 @@ This repository is designed to be a valuable resource for readers, students, dev
 - **Other Useful Books** – psychology, creativity, history  
 
 ---
-
-## 🖼️ Banner
-```
-![Banner](Banner.png)
-```
----
-
 ## 🚀 How to Use
 
 1. Navigate to the genre folder  
