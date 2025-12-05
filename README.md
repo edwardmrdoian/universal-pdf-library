@@ -61,3 +61,4 @@ If this repository helps you, please **give it a star** to support the project!
 
 ![Repo size](https://img.shields.io/github/repo-size/edwardmrdoian/universal-pdf-library)
 ![Stars](https://img.shields.io/github/stars/edwardmrdoian/universal-pdf-library?style=social)
+![License](https://img.shields.io/github/license/edwardmrdoian/universal-pdf-library)
