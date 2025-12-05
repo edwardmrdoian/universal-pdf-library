@@ -7,7 +7,6 @@ A clean and organized digital library containing PDF versions of books across mu
 This repository is designed to be a valuable resource for readers, students, developers, and anyone who loves learning.
 
 ---
-
 ## 📁 Repository Structure
 
 ```
@@ -20,8 +19,6 @@ This repository is designed to be a valuable resource for readers, students, dev
 /Technology
 /Others
 ```
-
----
 
 ## ⭐ Purpose of This Repository
 
@@ -61,3 +58,6 @@ Maintained by **Eduard Mrdoyan** — passionate about tech, learning, and sharin
 ## ⭐ Support
 
 If this repository helps you, please **give it a star** to support the project!
+
+![Repo size](https://img.shields.io/github/repo-size/edwardmrdoian/universal-pdf-library)
+![Stars](https://img.shields.io/github/stars/edwardmrdoian/universal-pdf-library?style=social)
