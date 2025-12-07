@@ -77,7 +77,7 @@ This repository is designed to be a valuable resource for readers, students, dev
 
 | Cover | Book | Author | Genre | Description | Download |
 |-----|------|--------|--------|-------------|-----------|
-| ![XPath Cheats Sheet](QA-Automation/Covers/XpathCheats.png) | **All XPath Cheats** | Me | Qa-Automation | All Xpath expressions cheats sheet | [PDF](QA-Automation/XPathCheatsSheet.pdf) |
+| ![XPath Cheats Sheet](QA-Automation/Covers/XpathCheats.png) | **All XPath Cheats** | Me | Qa Automation | All Xpath expressions cheats sheet | [PDF](QA-Automation/XPathCheatsSheet.pdf) |
 
 </details>
 
