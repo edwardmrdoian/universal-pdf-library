@@ -51,7 +51,7 @@ This repository is designed to be a valuable resource for readers, students, dev
 
 | Cover | Book | Author | Genre | Description | Download |
 |-----|------|--------|--------|-------------|-----------|
-| ![Power of Now](Personal-Growth/Covers/PowerOfNow.png) | **The Power of Now** | Eckhart Tolle | Mindfulness | Discover living in the present moment | [PDF](Personal-Growth/The-Power-Of-Now-by-Eckhart-Tolle.pdf) |
+| ![Power of Now](Personal-Growth/Covers/PowerOfNow.png) | **The Power of Now** | Eckhart Tolle | Mindfulness | Discover living in the present moment | [Open](Personal-Growth/The-Power-Of-Now-by-Eckhart-Tolle.pdf) or [⬇️ PDF ](https://raw.githubusercontent.com/edwardmrdoian/universal-pdf-library/master/Personal-Growth/The-Power-Of-Now-by-Eckhart-Tolle.pdf)|
 
 </details>
 
@@ -64,7 +64,7 @@ This repository is designed to be a valuable resource for readers, students, dev
 
 | Cover | Book | Author | Genre | Description | Download |
 |-----|------|--------|--------|-------------|-----------|
-| ![Clean Code](Programming/Covers/CleanCode.png) | **Clean Code** | Robert C. Martin | Programming | Best practices for writing clean software | [PDF](Programming/Clean-Code-by-Robert-C.Martin-Series.pdf) |
+| ![Clean Code](Programming/Covers/CleanCode.png) | **Clean Code** | Robert C. Martin | Programming | Best practices for writing clean software | [Open](Programming/Clean-Code-by-Robert-C.Martin-Series.pdf) or [⬇️ PDF ](https://raw.githubusercontent.com/edwardmrdoian/universal-pdf-library/master/Programming/Clean-Code-by-Robert-C.Martin-Series.pdf) |
 
 </details>
 
@@ -77,7 +77,7 @@ This repository is designed to be a valuable resource for readers, students, dev
 
 | Cover | Book | Author | Genre | Description | Download |
 |-----|------|--------|--------|-------------|-----------|
-| ![XPath Cheats Sheet](QA-Automation/Covers/XpathCheats.png) | **All XPath Cheats** | Me | Qa Automation | All Xpath expressions cheats sheet | [PDF](QA-Automation/XPathCheatsSheet.pdf) |
+| ![XPath Cheats Sheet](QA-Automation/Covers/XpathCheats.png) | **All XPath Cheats** | Me | Qa Automation | All Xpath expressions cheats sheet | [Open](QA-Automation/XPathCheatsSheet.pdf) or [⬇️ PDF ](https://raw.githubusercontent.com/edwardmrdoian/universal-pdf-library/master/QA-Automation/XPathCheatsSheet.pdf) |
 
 </details>
 
