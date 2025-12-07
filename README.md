@@ -39,6 +39,49 @@ This repository is designed to be a valuable resource for readers, students, dev
 - **Other Useful Books** – psychology, creativity, history  
 
 ---
+
+## 📚 Library Preview
+
+---
+
+<details>
+  <summary><strong>📘 Personal Growth</strong></summary>
+
+<br>
+
+| Cover | Book | Author | Genre | Description | Download |
+|-----|------|--------|--------|-------------|-----------|
+| ![Power of Now](Personal-Growth/Covers/PowerOfNow.png) | **The Power of Now** | Eckhart Tolle | Mindfulness | Discover living in the present moment | [PDF](Personal-Growth/The-Power-Of-Now-by-Eckhart-Tolle.pdf) |
+
+</details>
+
+---
+
+<details>
+  <summary><strong>💻 Programming</strong></summary>
+
+<br>
+
+| Cover | Book | Author | Genre | Description | Download |
+|-----|------|--------|--------|-------------|-----------|
+| ![Clean Code](Programming/Covers/CleanCode.png) | **Clean Code** | Robert C. Martin | Programming | Best practices for writing clean software | [PDF](Programming/Clean-Code-by-Robert-C.Martin-Series.pdf) |
+
+</details>
+
+---
+
+<details>
+  <summary><strong>📖 QA-Automation</strong></summary>
+
+<br>
+
+| Cover | Book | Author | Genre | Description | Download |
+|-----|------|--------|--------|-------------|-----------|
+| ![XPath Cheats Sheet](QA-Automation/Covers/XpathCheats.png) | **All XPath Cheats ** | Me | Qa-Automation | All Xpath expressions cheats sheet | [PDF](QA-Automation/XPathCheatsSheet.pdf) |
+
+</details>
+
+
 ## 🚀 How to Use
 
 1. Navigate to the genre folder  
